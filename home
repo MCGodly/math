@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      #title {
+      text-align: center;
+      color: darkblue;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="title">Calculator</h1>
+  </body>
+</html>
